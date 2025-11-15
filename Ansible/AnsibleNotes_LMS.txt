@@ -80,6 +80,9 @@ You will ansible package is now available with yum
 
 
 	# yum install ansible
+# Install ansible core with this
+sudo dnf install -y ansible-core
+
 
 press y
 again press y
